@@ -19,6 +19,11 @@ p {
     font-family: "Arial Black", Gadget, sans-serif;
 }
 
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
 img {
     display: inline;
     width: 20%;
@@ -47,6 +52,10 @@ table {
 
 #navigation{
     background-color: #BF6088 ;
+}
+
+#Places {
+    border-spacing: 0.6rem;
 }
 
 #footer{
