@@ -1,19 +1,54 @@
+body{
+    background-color: #A1CD67 ;
+}
+
+h1{
+    font-size: 400%;
+}
+
+#top{
+    background-color: #52A370 ;
+}
+
 h2 {
-    color: red;
+    color: white;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
 p {
-    font-family: monospace;
+    font-family: "Arial Black", Gadget, sans-serif;
 }
 
 img {
-    display: block;
-    width: 50%;
+    display: inline;
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .centerText {
     text-align: center;
+}
+
+.picture {
+    /*display:block;*/
+    margin: 5px;
+    /*float: left;*/
+}
+
+.picture img{
+    width: 100%;
+}
+
+table {
+    width:60%;
+    height:50%;
+}
+
+#navigation{
+    background-color: #BF6088 ;
+}
+
+#footer{
+    font-size: 75%;
 }
