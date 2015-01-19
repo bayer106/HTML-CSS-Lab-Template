@@ -17,3 +17,8 @@ img {
 .centerText {
     text-align: center;
 }
+
+#navigation {
+    background-color: #B3723D;
+    font-family: Tahoma, Geneva, sans-serif;
+}
