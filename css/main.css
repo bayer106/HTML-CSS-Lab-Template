@@ -55,7 +55,9 @@ table {
 }
 
 #Places {
-    border-spacing: 0.6rem;
+    border-spacing: 40px;
+    white-space: nowrap;
+    padding-right: 20px;
 }
 
 #footer{
